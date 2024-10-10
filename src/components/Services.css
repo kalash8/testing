@@ -1,0 +1,17 @@
+.services-section {
+    background-color: #f7f7f7;
+    padding: 100px 0;
+  }
+  
+  .services-section h2 {
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  .services-section p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: #666;
+    width: 80%;
+    margin: 0 auto;
+  }
